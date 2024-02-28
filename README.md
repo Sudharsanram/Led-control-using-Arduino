@@ -87,7 +87,7 @@ void loop() {
 ```
 ## OUTPUT
 # OFF:
-![WhatsApp Image 2024-02-28 at 11 22 27_b3e5ee7c](https://github.com/Sudharsanram/Led-control-using-Arduino/assets/119393980/fe4b42b2-98a1-4c8b-b71f-4933703efa20)
+<img src="https://github.com/Sudharsanram/Led-control-using-Arduino/assets/119393980/fe4b42b2-98a1-4c8b-b71f-4933703efa20" width="600" height="900">
 # ON:
 ![WhatsApp Image 2024-02-28 at 11 23 26_61f99a76](https://github.com/Sudharsanram/Led-control-using-Arduino/assets/119393980/9129601f-60ce-4598-b535-1a5b4a6dc71c)
 
