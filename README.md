@@ -1,5 +1,7 @@
-# Led-control-using-Arduino
+#### NAME : SUDHARSAN RAM M 
+#### REG NO: 212222110048
 
+# EX 01 Led control using Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
